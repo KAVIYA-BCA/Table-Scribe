@@ -1,4 +1,4 @@
-<form action="book_table.php" method="post">
+<form action="brest.php" method="post">
     <input type="hidden" name="table_id" value="<?php echo $table_id; ?>">
     Name: <input type="text" name="customer_name"><br>
     Phone: <input type="text" name="phone"><br>
